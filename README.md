@@ -27,9 +27,8 @@
 </tr>
 </table>
 
----
 
-## 🛠️ Tech Stack & GitHub Stats
+### 🛠️ Tech Stack & GitHub Stats
 
 <table border="0">
 <tr>
@@ -68,9 +67,8 @@
 </tr>
 </table>
 
----
 
-## 📫 Let’s Connect
+### 📫 Let’s Connect
 <p align="left">
 <a href="mailto:mohiteanil22@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -81,7 +79,6 @@
 <img src="https://img.shields.io/badge/Location-Mumbai-00ffff?style=for-the-badge&logo=mapbox&logoColor=black" />
 </p>
 
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer" width="100%"/>
 </p>
