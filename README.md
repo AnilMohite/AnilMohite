@@ -14,7 +14,7 @@
 <td width="60%" valign="top">
 
 ## 🚀 About Me
-- 🌐 I create scalable web, backend, and AI solutions that solve real-world challenges.
+- 🌐 I build scalable backend and web applications along with AI-driven solutions, all focused on real-world problems.
 - ☁️ Working with **AWS & GCP** to deploy applications using **CI/CD**.
 - 💡 Always exploring new tools & development patterns.
 - 🤝 Love collaborating on impactful open-source projects.
