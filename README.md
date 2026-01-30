@@ -16,8 +16,12 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & GitHub Stats
 
+<table style="border:none; border-collapse: collapse;">
+<tr>
+<td valign="top">
+  
 ### 🧠 Languages & Platforms
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -45,24 +49,11 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 
----
+</td>
+<td valign="top" width="40%">
 
-## 🚧 Projects You Can Explore
 
-### ⭐ Featured Repositories
-- 🔥 **MyStore** – E-commerce store with HTML, CSS, JS  
-- 📝 **log_book** – Flask MySQL log system  
-- ⚛️ **react-web-app** – React frontend project  
-- 🤖 **chatbot-flask** – Python chatbot with Flask  
-- 🐍 **django-blogging-app** – Blogging system built with Django  
-- 🕸️ **flask-web-app** – Basic web app using Flask
-
-_(Pin these to your GitHub profile for best visibility)_  
-
----
-
-## 📈 GitHub Stats
-
+### 📈 GitHub Stats
 <p align="center">
   <!-- Top Languages (from GitHub Profile API) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilMohite&theme=radical" alt="GitHub Streak" />
@@ -74,12 +65,22 @@ _(Pin these to your GitHub profile for best visibility)_
 </p>
 
 
----
+</td>
+</tr>
+</table>
 
 ## 📫 Let’s Connect
-📬 **Email:** *mohiteanil22@gmail.com*
-🔗 **LinkedIn:** https://www.linkedin.com/in/anil-mohite-891159148  
-📍 **Location:** Mumbai, India  
+<p align="">
+  <a href="mailto:mohiteanil22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white&animation=twinkle" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anil-mohite-891159148" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=twinkle" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.google.com/maps/place/Mumbai,+India" target="_blank">
+    <img src="https://img.shields.io/badge/Location-Mumbai?style=for-the-badge&logo=mapbox&logoColor=white&animation=twinkle" alt="Location"/>
+  </a>
+</p>
 
 ---
 
