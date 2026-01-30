@@ -1,14 +1,13 @@
 <h1 align="center">👋 Hey there, I'm Anil Mohite</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=👋+Hey+there,+I'm+Anil+Mohite;Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <i>I’m a passionate full-stack developer who builds efficient, scalable, and user-centric applications. I thrive on solving problems with clean code and learning modern technologies — especially in web and backend development.</i>
 </p>
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Developer;AI-Driven+Solutions;Python+%26+Cloud+Enthusiast" alt="Typing SVG" />
+</h1>
+
 
 <table border="0">
 <tr>
@@ -23,6 +22,7 @@
 </td>
 <td width="40%" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9idXp6eXN6eHExZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
+   <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkZnZ0YmthZ2p4YXN3YXN3YXN3YXN3YXN3YXN3YXN3YXN3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius:15px;" /> -->
 </td>
 </tr>
 </table>
