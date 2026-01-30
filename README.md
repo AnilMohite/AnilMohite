@@ -1,8 +1,10 @@
-# 👋 Hey there, I'm **Anil Mohite**
+<h1 align="center">👋 Hey there, I'm Anil Mohite</h1>
 
-### 💼 Software Developer | Web & Backend Developer | Python & PHP Enthusiast
-
-I’m a passionate full-stack developer who builds efficient, scalable, and user-centric applications. I thrive on solving problems with clean code and learning modern technologies — especially in web and backend development.
+<p align="center">
+  <i>
+    I’m a passionate full-stack developer who builds efficient, scalable, and user-centric applications. I thrive on solving problems with clean code and learning modern technologies —       especially in web and backend development.
+  </i>
+</p>
 
 ---
 
@@ -60,15 +62,24 @@ _(Pin these to your GitHub profile for best visibility)_
 ---
 
 ## 📈 GitHub Stats
-![Anil’s GitHub Stats](https://github.com/AnilMohite.png?tab=overview&hide=contribs,prs&theme=radical)
-![Top Languages](https://github.com/AnilMohite.png?tab=languages&theme=radical)
+
+<p align="center">
+  <!-- Top Languages (from GitHub Profile API) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilMohite&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=AnilMohite" alt="Profile Views" />
+</p>
+
 
 ---
 
 ## 📫 Let’s Connect
+📬 **Email:** *mohiteanil22@gmail.com*
 🔗 **LinkedIn:** https://www.linkedin.com/in/anil-mohite-891159148  
 📍 **Location:** Mumbai, India  
-📬 **Email:** *mohiteanil22@gmail.com*
 
 ---
 
